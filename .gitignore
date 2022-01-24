@@ -1,3 +1,7 @@
+# Key files
+*_sk
+*.pem
+
 # Emacs backup files
 *~
 *#
